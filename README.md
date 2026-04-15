@@ -18,7 +18,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-abubker)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=adel-abubker&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/adel-abubker)
+[![Profile Views](https://komarev.com/ghpvc/?username=adelabubker&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/adelabubker)
 
 </div>
 
