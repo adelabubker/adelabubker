@@ -75,10 +75,10 @@ const adel = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adel-abubker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=adel-abubker&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adelabubker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=adelabubker&theme=tokyonight&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adel-abubker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelabubker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -88,7 +88,7 @@ const adel = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=adel-abubker&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=adelabubker&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -99,8 +99,8 @@ const adel = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adel-abubker/adel-abubker/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adel-abubker/adel-abubker/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adelabubker/adelabubker/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adelabubker/adelabubker/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adel-abubker/adel-abubker/output/github-contribution-grid-snake.svg" />
 </picture>
 
