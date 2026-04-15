@@ -112,7 +112,7 @@ const adel = {
 
 <div align="center">
 
-[![Adel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adel-abubker&theme=tokyo-night&hide_border=true&area=true)](https://github.com/adel-abubker)
+[![Adel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adelabubker&theme=tokyo-night&hide_border=true&area=true)](https://github.com/adelabubker)
 
 </div>
 
