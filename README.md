@@ -12,6 +12,9 @@
 
 <br/>
 
+
+---
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-adelmasoud.netlify.app-6E40C9?style=for-the-badge&logoColor=white)](https://adelmasoud.netlify.app/)
@@ -23,7 +26,6 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 ```javascript
